@@ -1,4 +1,4 @@
-## webscrapping-news-proadmintierra-sit
+## webscrapping-news-proadmintierra-site
 web scrapping de las noticias del sitio https://www.proadmintierra.info/
 
 Django server
