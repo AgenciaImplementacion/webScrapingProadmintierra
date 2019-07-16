@@ -1,5 +1,5 @@
 # webScrapingProadmintierra
-Web Scraping de proadmintierra.info para traer todas las noticias.
+web scrapping de las noticias del sitio https://www.proadmintierra.info/
 
 Django server
 
